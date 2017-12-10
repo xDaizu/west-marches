@@ -1,0 +1,14 @@
+{
+  "name": "west-marches-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
